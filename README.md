@@ -1,2 +1,4 @@
 # Spaghetti
 Recipe for Spaghetti
+
+This a recipe for a dish that makes many mouths water with its extravagent flavours and great after-taste. Spaghetti is a long, thin, solid, cylindrical noodle pasta. It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water and sometimes enriched with vitamins and minerals. Italian spaghetti is typically made from durum wheat semolina. Usually the pasta is white because refined flour is used, but whole wheat flour may be added. Spaghettoni is a thicker form of spaghetti, while capellini is a very thin spaghetti
